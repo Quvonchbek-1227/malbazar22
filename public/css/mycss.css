@@ -1,0 +1,22 @@
+@media only screen and (max-width: 995px) {
+    span.hamburger-box {
+        display: none;
+    }
+    li.hamburger_btn {
+        display: none!important;
+    }
+    /* .access_link:visited~a.dropdown-menu {
+        display: block!important;
+    } */
+}
+.image {
+    width: 400px;
+    height: 250px;
+}
+
+@media only screen and (max-width: 600px) {
+    .image {
+        width: 100%;
+        height: 150px;
+    }
+}

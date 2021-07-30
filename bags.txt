@@ -1,0 +1,4 @@
+1.Edit Animal Input Image
+2.Create News Input Image
+
+3
